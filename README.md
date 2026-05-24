@@ -1,5 +1,7 @@
 # EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
+## NAME: Nivetha N
+## Reg.no:212225040290
 
 AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
 
@@ -37,15 +39,21 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+<img width="1048" height="781" alt="Screenshot 2026-05-24 161148" src="https://github.com/user-attachments/assets/4a0d8fec-3f6f-49f3-a6e1-d44225799f62" />
+<img width="1041" height="576" alt="Screenshot 2026-05-24 161159" src="https://github.com/user-attachments/assets/c4d726c5-68d9-4e67-a796-fa68709a4531" />
+
 
 Bridge rectifier with filter:
+TABULAR COLUMN Rectifier without filter
+TABULAR COLUMN Rectifier with filter
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+WAVEFORM: Half wave rectifier waveform
+<img width="954" height="505" alt="Screenshot 2026-05-24 161210" src="https://github.com/user-attachments/assets/7fc5d6d8-1ab7-44f6-a914-e59aa2b36864" />
 
-WAVEFORM:
+Fullwave rectifier waveform
+<img width="968" height="503" alt="Screenshot 2026-05-24 161227" src="https://github.com/user-attachments/assets/cc3aaf5c-7f45-44c6-8e62-060843b32dd7" />
+
+
 
 
 RESULT:
