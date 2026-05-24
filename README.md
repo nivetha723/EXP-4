@@ -44,7 +44,9 @@ Half wave rectifier with filter:
 
 
 Bridge rectifier with filter:
+
 TABULAR COLUMN Rectifier without filter
+
 TABULAR COLUMN Rectifier with filter
 
 WAVEFORM: Half wave rectifier waveform
